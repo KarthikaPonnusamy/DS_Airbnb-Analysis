@@ -13,3 +13,7 @@ Develop a streamlit web application that utilizes the geospatial data from the A
 
 Step 4 :
 Use the cleaned data to analyze and visualize how prices vary across different locations, property types, and seasons. Create dynamic plots and charts that enable users to explore price trends, outliers, and correlations with other variables.
+
+Click here to view TableU dashboard
+
+https://public.tableau.com/app/profile/karthika.p6599/viz/AirBnB_Dashboard_17075885467220/Dashboard1?publish=yes
